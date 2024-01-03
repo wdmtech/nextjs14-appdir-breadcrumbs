@@ -1,7 +1,7 @@
 {
-  "name": "@marketsystems/nextjs13-appdir-breadcrumbs",
+  "name": "@wdmtech/nextjs14-appdir-breadcrumbs",
   "version": "1.0.4",
-  "description": "NextJs13 and new app dir breadcrumbs - updated version of nextjs-breadcrumbs for new app dir and removal of outdated dependencies",
+  "description": "NextJs14 and new app dir breadcrumbs - updated version of nextjs-breadcrumbs for new app dir and removal of outdated dependencies",
   "author": "T Smith (Original code by NiklasMencke)",
   "license": "ISC",
   "files": [
@@ -40,7 +40,7 @@
   "types": "./dist/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/marketsystems/nextjs13-appdir-breadcrumbs.git"
+    "url": "git+https://github.com/wdmtech/nextjs14-appdir-breadcrumbs.git"
   },
   "keywords": [
     "breadcrumbs",
@@ -48,7 +48,7 @@
     "app"
   ],
   "bugs": {
-    "url": "https://github.com/marketsystems/nextjs13-appdir-breadcrumbs/issues"
+    "url": "https://github.com/wdmtech/nextjs14-appdir-breadcrumbs/issues"
   },
-  "homepage": "https://github.com/marketsystems/nextjs13-appdir-breadcrumbs#readme"
+  "homepage": "https://github.com/wdmtech/nextjs14-appdir-breadcrumbs#readme"
 }
